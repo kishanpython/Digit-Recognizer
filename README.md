@@ -1,3 +1,3 @@
 # Digit-Recognizer
 
-Predicting Hand Written Digit from zero to nine.
+Recognising Hand Written Digit from zero to nine.
